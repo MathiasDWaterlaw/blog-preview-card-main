@@ -80,6 +80,7 @@ body{
 .description h2:hover, 
 .description h2:active{
     color: var(--yellow);
+    transition: 0.1s;
 }
 
 .description p{
